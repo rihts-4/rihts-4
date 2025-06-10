@@ -7,34 +7,9 @@
 ### Basic Stats
 ![GitHub repo size](https://img.shields.io/github/repo-size/rihts-4/rihts-4)
 ![GitHub language count](https://img.shields.io/github/languages/count/username/repository-name)
-![GitHub top language](https://img.shields.io/github/languages/top/username/repository-name)
+![GitHub top language](https://img.shields.io/github/languages/top/rihts-4/rihts-4)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/username/repository-name)
 
-### Activity & Engagement
-![GitHub stars](https://img.shields.io/github/stars/username/repository-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repository-name?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/username/repository-name?style=social)
-![GitHub followers](https://img.shields.io/github/followers/username?style=social)
-
-### Issues & Pull Requests
-![GitHub issues](https://img.shields.io/github/issues/username/repository-name)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/username/repository-name)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/username/repository-name)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/username/repository-name)
-
-### Commits & Releases
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/username/repository-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repository-name)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/username/repository-name)
-![GitHub all releases](https://img.shields.io/github/downloads/username/repository-name/total)
-
-### License & Version
-![GitHub](https://img.shields.io/github/license/username/repository-name)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/username/repository-name)
-
-### Build Status (if applicable)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/username/repository-name/main.yml)
-![GitHub deployments](https://img.shields.io/github/deployments/username/repository-name/production)
 
 ## Advanced Statistics
 
