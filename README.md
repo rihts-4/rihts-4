@@ -10,9 +10,6 @@
 ### GitHub Stats Card
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rihts-4&show_icons=true&theme=vision-friendly-dark)
 
-### Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rihts-4&theme=react-dark)
-
 ### Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rihts-4&theme=dark)
 
