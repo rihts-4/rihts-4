@@ -2,19 +2,10 @@
 
 <!-- Replace 'username' and 'repository-name' with your actual GitHub username and repository name -->
 
-## Repository Statistics
-
-### Basic Stats
-![GitHub repo size](https://img.shields.io/github/repo-size/rihts-4/rihts-4)
-![GitHub language count](https://img.shields.io/github/languages/count/username/repository-name)
-![GitHub top language](https://img.shields.io/github/languages/top/rihts-4/rihts-4)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/username/repository-name)
-
-
-## Advanced Statistics
+## Statistics
 
 ### Language Breakdown
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=vision-friendly-dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihts-4&layout=compact&theme=vision-friendly-dark)
 
 ### GitHub Stats Card
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=vision-friendly-dark)
