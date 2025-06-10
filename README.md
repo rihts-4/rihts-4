@@ -1,4 +1,4 @@
-# Project Name
+# Profile
 
 <!-- Replace 'username' and 'repository-name' with your actual GitHub username and repository name -->
 
