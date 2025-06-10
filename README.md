@@ -37,17 +37,11 @@
 
 ## Alternative Stats Cards
 
-### WakaTime Stats (if connected)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rihts-4&theme=dark)
-
-### Most Used Languages (Alternative)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rihts-4&hide=html,css&langs_count=8&layout=compact&theme=dark)
-
 ### Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rihts-4&theme=darkhub)
 
 ## Contribution Snake Animation
-![Snake animation](https://github.com/rihts-4/rihts-4/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/username/rihts-4/blob/output/github-contribution-grid-snake.svg)
 
 ## Available Badge Styles
 - ?style=plastic
@@ -72,11 +66,3 @@
 - critical
 - informational
 - inactive
-
-## HTML Version (Alternative)
-<div align="center">
-  <img src="https://img.shields.io/github/stars/username/repository-name" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/username/repository-name" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/username/repository-name" alt="Issues"/>
-  <img src="https://img.shields.io/github/license/username/repository-name" alt="License"/>
-</div>
