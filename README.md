@@ -41,7 +41,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rihts-4&theme=darkhub)
 
 ## Contribution Snake Animation
-![Snake animation](https://github.com/username/rihts-4/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
 
 ## Available Badge Styles
 - ?style=plastic
