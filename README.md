@@ -37,7 +37,7 @@
 ### Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rihts-4&theme=darkhub)
 
-## Available Badge Styles
+<!--## Available Badge Styles
 - ?style=plastic
 - ?style=flat
 - ?style=flat-square
@@ -59,4 +59,4 @@
 - important
 - critical
 - informational
-- inactive
+- inactive -->
